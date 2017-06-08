@@ -415,7 +415,7 @@ public class EmployeeAttendance {
                                }
                                catch(IOException er)
                                {
-                                   System.out.println("Error occured");
+                                     System.out.println("Error occured");
                                }
                            }
                            text.setForeground(Color.GREEN);
@@ -481,4 +481,3 @@ public class EmployeeAttendance {
     }
     
 }
-//checking
